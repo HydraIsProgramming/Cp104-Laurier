@@ -1,0 +1,62 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ranjot
+ID:      169020301
+Email:   sand0301@mylaurier.ca
+Version: 2023-01-26
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is the number?: 50
+Too low
+What is the number?: 60
+Too low
+What is the number?: 70
+Too low
+What is the number?: 80
+Too high
+What is the number?: 75
+Congratulations
+Your count is: 5
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the target for power of 2: 6
+
+8
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive value: 5
+Next positive value: 7
+Next positive value: 2
+Next positive value: -7
+The minimum is: 2.0 The maximum is: 7.0 The total is: 14.0 The average is: 4.666666666666667
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+What is your budget?: 500
+Enter an expense (0 to quit): $100
+Enter another expense (0 to quit): $126
+Enter another expense (0 to quit): $190
+Enter another expense (0 to quit): $0
+(416.0, 84.0, 'Surplus')
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 24
+Hourly wage rate: 20
+Hours worked: 10
+Net payment for employee 24: $ 192.75
+
+Employee ID: 425
+Hourly wage rate: 45
+Hours worked: 50
+Net payment for employee 425: $ 2,385.28
+
+Employee ID: 0
+2578.03125 1289.015625
