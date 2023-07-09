@@ -1,0 +1,84 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ranjot
+ID:      169020301
+Email:   sand0301@mylaurier.ca
+Version: 2023-01-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a string: AEIOU
+
+A e i o u
+
+Enter a string: soMeThing
+
+So me thing
+
+Enter a string: letsSeeIfThisRuns
+
+Lets see if this runs
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a word to pluralize: city
+
+cities
+
+Enter a word to pluralize: toy
+
+toys
+
+Enter a word to pluralize: building
+
+buildings
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter first word: running
+Enter second word: cunning
+
+unning
+
+Enter first word: bromine
+Enter second word: goldmine
+
+mine
+
+Enter first word: laptop
+Enter second word: rooftop
+
+top
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter an ISBN: 978-3-16-148410-0
+
+True
+
+Enter an ISBN: 978-3-12148410--0
+
+False
+
+Enter an ISBN: 5272-192-0
+
+False
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a list of words: ['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+
+True
+
+Enter a list of words: ['word', 'chain']
+
+False
+
+Enter a list of words: ['wall', 'long', 'gone']
+
+True
+-------------------------------------------------------

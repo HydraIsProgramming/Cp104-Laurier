@@ -1,0 +1,152 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ranjot
+ID:      169020301
+Email:   sand0301@mylaurier.ca
+Version: 2023-01-30
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $969
+
+Projected Tax Report
+-----------------------
+Total Sales: $969.00
+Annual Tax:  %18.50
+-----------------------
+Tax:         $179.26
+-------------------------------------------------------
+Enter the total sales: $12321
+
+Projected Tax Report
+-----------------------
+Total Sales: $12,321.00
+Annual Tax:  %18.50
+-----------------------
+Tax:         $2,279.38
+-------------------------------------------------------
+Enter the total sales: $69
+
+Projected Tax Report
+-----------------------
+Total Sales: $69.00
+Annual Tax:  %18.50
+-----------------------
+Tax:         $12.77
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive two digit number: 42
+
+The product of the digits 42 is 8
+-------------------------------------------------------
+Enter a positive two digit number: 69
+
+The product of the digits 69 is 54
+-------------------------------------------------------
+Enter a positive two digit number: 14
+
+The product of the digits 14 is 4
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 23102004
+
+The reformatted date: 2004/10/23
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 23052004
+
+The reformatted date: 2004/05/23
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 11111234
+
+The reformatted date: 1234/11/11
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of pieces of cake: 21
+Number of party-goers: 5
+
+Each party-goer receives 4 pieces of cake
+Pieces of cake that won’t be distributed: 1
+-------------------------------------------------------
+Number of pieces of cake: 23
+Number of party-goers: 2
+
+Each party-goer receives 11 pieces of cake
+Pieces of cake that won’t be distributed: 1
+-------------------------------------------------------
+Number of pieces of cake: 1234
+Number of party-goers: 12
+
+Each party-goer receives 102 pieces of cake
+Pieces of cake that won’t be distributed: 10
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m): 46
+Foundation width (m): 587
+Foundation height (m): 57
+Wall height (m): 57
+Cost of concrete ($/m^3): 1234
+Cost of bricks ($/m^2): 123
+
+Concrete needed for foundation (m^3): 1,539,114.00
+Cost of concrete: $1,899,266,676.00
+Bricks needed for walls (m^2): 72,162
+Cost of bricks: $8,875,926.00
+Total cost: $1,908,142,602.00
+-------------------------------------------------------
+Foundation length (m): 123
+Foundation width (m): 123
+Foundation height (m): 123
+Wall height (m): 123
+Cost of concrete ($/m^3): 123
+Cost of bricks ($/m^2): 123
+
+Concrete needed for foundation (m^3): 1,860,867.00
+Cost of concrete: $228,886,641.00
+Bricks needed for walls (m^2): 60,516
+Cost of bricks: $7,443,468.00
+Total cost: $236,330,109.00
+-------------------------------------------------------
+Foundation length (m): 12
+Foundation width (m): 12
+Foundation height (m): 12
+Wall height (m): 35
+Cost of concrete ($/m^3): 12.46
+Cost of bricks ($/m^2): 23.75
+
+Concrete needed for foundation (m^3): 1,728.00
+Cost of concrete: $21,530.88
+Bricks needed for walls (m^2): 1,680
+Cost of bricks: $39,900.00
+Total cost: $61,430.88
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
